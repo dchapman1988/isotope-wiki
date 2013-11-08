@@ -8,7 +8,9 @@ gem 'slim'
 gem 'compass-rails'
 gem 'simple-navigation'
 gem 'pry'
-
+gem "omniauth"
+gem "omniauth-oauth2"
+gem 'devise'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
